@@ -1,4 +1,4 @@
-package vista;
+package Vista;
 
 import modelo.Producto;
 import java.util.List;
