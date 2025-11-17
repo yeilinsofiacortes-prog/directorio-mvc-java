@@ -1,4 +1,5 @@
-package controlador;
+//Cambios agregados por Sofia
+package Controlador;
 
 import modelo.BaseDeDatos;
 import modelo.Producto;
